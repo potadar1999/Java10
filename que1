@@ -1,0 +1,6 @@
+Explain why Java is platform independent ?
+
+Because Java is platform uses a virtual machine and the virtual machine takes care of the differences between the
+ byte codes or the different platforms. The java programming language and all APIs are complied into byte codes and
+ it's works on write once and run anywhere principle. JVM complies java code and convert it into byte code instead 
+ of some machine specific code.
